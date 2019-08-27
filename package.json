@@ -1,17 +1,14 @@
 {
-  "name": "node-red-contrib-deduplicate",
-  "version": "0.2.0",
+  "name": "node-red-contrib-deduplicate-msg",
+  "version": "0.0.1",
   "description": "Node-RED node that filters duplicate messages",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterstrapp/node-red-contrib-deduplicate"
+    "url": "https://github.com/mauriciom75/node-red-contrib-deduplicate"
   },
   "keywords": [
-    "node-red",
-    "deduplicate",
-    "duplicate",
-    "cache"
+      "none"
   ],
   "node-red": {
     "nodes": {
@@ -19,14 +16,7 @@
     }
   },
   "author": {
-    "name": "Peter Strapp",
-    "email": "peter@strapp.co.uk",
-    "url": "http://www.strapp.co.uk"
-  },
-  "contributors": [
-    {
-      "name": "Greg Stephens",
-      "email": "greg@udon.org"
-    }
-  ]
+    "name": "Mauricio Margot",
+    "email": "mauriciom7575@gmail.com"
+  }
 }
